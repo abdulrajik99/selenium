@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite3]" parallel="methods">
+  <test name="Test3">
+    <classes>
+      <class name="com.Freecrm.qa.TestCasees.CalenderPageTest"/>
+    </classes>
+  </test> <!-- Test3 -->
+  <test name="Test3(failed)" parallel="methods">
+    <classes>
+      <class name="com.Freecrm.qa.TestCasees.CalenderPageTest">
+        <methods>
+          <include name="VerifycalendatesTest"/>
+          <include name="VerifyCalenderMonthTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.CalenderPageTest -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+</suite> <!-- Failed suite [Suite3] -->

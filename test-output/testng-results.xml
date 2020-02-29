@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="151036" started-at="2020-02-01T17:30:07Z" finished-at="2020-02-01T17:32:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="151036" started-at="2020-02-01T17:30:07Z" finished-at="2020-02-01T17:32:38Z">
+      <class name="com.Freecrm.qa.TestCasees.HomepageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="setup" is-config="true" duration-ms="24414" started-at="2020-02-01T23:00:07Z" finished-at="2020-02-01T23:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyHomepagetitleTest()[pri:1, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="VerifyHomepagetitleTest" duration-ms="35" started-at="2020-02-01T23:00:31Z" finished-at="2020-02-01T23:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomepagetitleTest -->
+        <test-method status="PASS" signature="closedown()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="closedown" is-config="true" duration-ms="1122" started-at="2020-02-01T23:00:31Z" finished-at="2020-02-01T23:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="setup" is-config="true" duration-ms="25454" started-at="2020-02-01T23:00:32Z" finished-at="2020-02-01T23:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyUsernameTest()[pri:2, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="VerifyUsernameTest" duration-ms="3963" started-at="2020-02-01T23:00:58Z" finished-at="2020-02-01T23:01:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUsernameTest -->
+        <test-method status="PASS" signature="closedown()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="closedown" is-config="true" duration-ms="1479" started-at="2020-02-01T23:01:02Z" finished-at="2020-02-01T23:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="setup" is-config="true" duration-ms="23615" started-at="2020-02-01T23:01:03Z" finished-at="2020-02-01T23:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyContactsLinkTest()[pri:3, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="VerifyContactsLinkTest" duration-ms="4730" started-at="2020-02-01T23:01:27Z" finished-at="2020-02-01T23:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContactsLinkTest -->
+        <test-method status="PASS" signature="closedown()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="closedown" is-config="true" duration-ms="1368" started-at="2020-02-01T23:01:31Z" finished-at="2020-02-01T23:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="setup" is-config="true" duration-ms="19439" started-at="2020-02-01T23:01:33Z" finished-at="2020-02-01T23:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyDealspageTest()[pri:4, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="VerifyDealspageTest" duration-ms="1737" started-at="2020-02-01T23:01:52Z" finished-at="2020-02-01T23:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDealspageTest -->
+        <test-method status="PASS" signature="closedown()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="closedown" is-config="true" duration-ms="914" started-at="2020-02-01T23:01:54Z" finished-at="2020-02-01T23:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="setup" is-config="true" duration-ms="17925" started-at="2020-02-01T23:01:55Z" finished-at="2020-02-01T23:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTaskpageTest()[pri:5, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="VerifyTaskpageTest" duration-ms="2359" started-at="2020-02-01T23:02:13Z" finished-at="2020-02-01T23:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTaskpageTest -->
+        <test-method status="PASS" signature="closedown()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="closedown" is-config="true" duration-ms="912" started-at="2020-02-01T23:02:15Z" finished-at="2020-02-01T23:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="setup" is-config="true" duration-ms="17153" started-at="2020-02-01T23:02:16Z" finished-at="2020-02-01T23:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyCalenderpageTest()[pri:6, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="VerifyCalenderpageTest" duration-ms="3187" started-at="2020-02-01T23:02:33Z" finished-at="2020-02-01T23:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCalenderpageTest -->
+        <test-method status="PASS" signature="closedown()[pri:0, instance:com.Freecrm.qa.TestCasees.HomepageTest@59a6e353]" name="closedown" is-config="true" duration-ms="1198" started-at="2020-02-01T23:02:36Z" finished-at="2020-02-01T23:02:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedown -->
+      </class> <!-- com.Freecrm.qa.TestCasees.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+Com\FreeCrm\qa\pages\CalenderPage.class
+Com\FreeCrm\qa\pages\LoginPage.class
+Com\qa\ExtentReportListner\ExtentRepoterNg.class
+Com\FreeCrm\qa\baseclass\TestBase.class
+Com\FreeCrm\qa\pages\ContactsPage.class
+Com\FreeCrm\qa\pages\SignupPage.class
+Com\FreeCrm\qa\Utill\WebEventListener.class
+Com\FreeCrm\qa\pages\AddnewContactPage.class
+Com\FreeCrm\qa\pages\HomePage.class
+Com\FreeCrm\qa\Utill\TestUtill.class
+Com\FreeCrm\qa\pages\DealsPage.class
+Com\FreeCrm\qa\pages\TasklinksPage.class
+Com\FreeCrm\qa\pages\CompaniesPage.class

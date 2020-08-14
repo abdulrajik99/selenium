@@ -1,0 +1,264 @@
+    1  git clone https://github.com/amuthansakthivel/AmazonAssignment.git
+    2  git clone https://github.com/amuthansakthivel/AmazonAssignment.git
+    3  git init
+    4  cd cd \Users\Abdul Rajik shaik\Desktop\Abdul
+    5  cd users
+    6  C:\Users\Abdul Rajik shaik\Desktop\Abdul
+    7  /c/users/
+    8  /Abdul Rajik shaik/Desktop/Abdul
+    9  /Abdul Rajik shaik/Desktop/
+   10  pwd
+   11  git clone https://github.com/amuthansakthivel/AmazonAssignment.git
+   12  git init
+   13  git status
+   14  ls
+   15  git config --user,name "Abdul Rajik"
+   16  git config --user.name "Abdul Rajik"
+   17  git config --user.email "abdulrajik5@gmail.com"
+   18  git config --list
+   19  git config --list
+   20  git status
+   21  git add..
+   22  git add.
+   23  git add
+   24  git add .
+   25  git init
+   26  git status
+   27  touch file1
+   28  git status
+   29  git status
+   30  git add file1
+   31  git status
+   32  git commit -m "test1"
+   33  git add .
+   34  git add *
+   35  git commit -m "sample"
+   36  git init
+   37  git clone https://github.com/amuthansakthivel/AmazonAssignment.git
+   38  git status
+   39  git pull
+   40  git remote -v
+   41  ls
+   42  cd
+   43  ls
+   44  pwd
+   45  ls
+   46  git remote -v
+   47  cd git
+   48  ls
+   49  git remote -v
+   50  ls
+   51  cd AmazonAssignment/
+   52  ls
+   53  cd AmazonAssignment/
+   54  LS
+   55  GIT REMOTE -V
+   56  git remote add https://github.com/abdulrajik99/manual
+   57  git remote -v
+   58  git clone https://github.com/abdulrajik99/manual
+   59  ls
+   60  cd manual
+   61  ls
+   62  cd ..
+   63  git push -u -f origin master
+   64  ls
+   65  cd 
+   66  cd C:\Users\Abdul Rajik shaik\Desktop\Abdul\Selenium
+   67  ls
+   68  pwd
+   69  ls
+   70  git init
+   71  git add
+   72  git add *
+   73  pwd
+   74  cd ..
+   75  ls
+   76  git init selenium
+   77  cd selenium
+   78  ls
+   79  ls -la
+   80  git add *
+   81  git status
+   82  git commit -m *
+   83  git status
+   84  pwd
+   85  git commit -m"add" *
+   86  git status
+   87  git commit -m"add" 
+   88  git remote add origin https://github.com/abdulrajik99/manual.git
+   89  git push -u -f origin master
+   90  git push 
+   91  git push -u -f master origin
+   92  git checkout origin
+   93   git config master.remote origin
+   94  git config master.merge refs/heads/master
+   95  git push
+   96  ls
+   97  cd ..
+   98  ls
+   99  mkdir new
+  100  ls
+  101  cd new
+  102  ls
+  103  git clone https://github.com/abdulrajik99/selenium.git
+  104  ls
+  105  git add *
+  106  git commit -m
+  107  git push
+  108  git add remote https://github.com/abdulrajik99/selenium.git
+  109  git remote add selenium https://github.com/abdulrajik99/selenium.git
+  110  ls
+  111  cd selenium/
+  112  ls
+  113  ls
+  114  cd ..
+  115  ls
+  116  cd ..
+  117  ls
+  118  cd selenium
+  119  ls
+  120  git add *
+  121  git commit -m
+  122  git push
+  123  git remote add bin/ https://github.com/abdulrajik99/selenium.git
+  124  git remote add  https://github.com/abdulrajik99/selenium.git
+  125  git push
+  126  cd ..
+  127  ls
+  128  git add selenium
+  129  git add Selenium
+  130  cd Selenium
+  131  ls -la
+  132  git add *
+  133  git clone https://github.com/abdulrajik99/selenium.git
+  134  git status
+  135  git commit -m
+  136  git status
+  137  git push
+  138  git status
+  139  ssh-keygen -t rsa
+  140  ssh-keygen -y
+  141  git branch
+  142  git add .
+  143  git add *
+  144  git commit -m
+  145  git push
+  146  pwd
+  147  git add
+  148  git add *
+  149  git commit -m
+  150  git push
+  151  git push -u origin master
+  152  git checkout
+  153  git branch
+  154  ls
+  155  git remote rm origin
+  156  git remote add origin https://github.com/abdulrajik99/selenium.git
+  157  git config master.remote origin
+  158  git config master.merge refs/heads/master
+  159  ls
+  160  cd selenium/
+  161  ls
+  162  touch newfile
+  163  ls
+  164  git add newfile
+  165  git commit -m
+  166  git push
+  167  git clone https://github.com/abdulrajik99/selenium.git
+  168  ls
+  169  git add .
+  170  git status
+  171  git commit -m "new"
+  172  git config --global user.email "abdulrajik5@gmail.com"
+  173    git config --global user.name "abdul"
+  174  git commit -m "new"
+  175  git status
+  176  git push origin master
+  177  ls
+  178  git pull
+  179  git clone https://github.com/abdulrajik99/selenium.git
+  180  git init
+  181  git clone https://github.com/abdulrajik99/selenium.git
+  182  git clone https://github.com/abdulrajik99/selenium.git
+  183  ls
+  184  git clone https://github.com/abdulrajik99/selenium.git
+  185  git clone https://github.com/abdulrajik99/myproject.git
+  186  ls
+  187  cd myproject/
+  188  ls
+  189  git status
+  190  git add .
+  191  git status
+  192  git add selenium
+  193  git status
+  194  git commit -m "new"
+  195  git status
+  196  git branch --unset-upstream
+  197  git status
+  198  git commit -m "new"
+  199  git logs
+  200  git log
+  201  git push origin master
+  202  git pull
+  203  ls
+  204  git pull origin myproject
+  205  git pull origin mmaster
+  206  git pull
+  207  git pull origin master
+  208  ls
+  209  cat abdul 
+  210  cat > abdul 
+  211  cat abdul 
+  212  git status
+  213  git add .
+  214  git commit -m "second"
+  215  git push
+  216  git push origin master
+  217  ls
+  218  git branch
+  219  git branch abdul
+  220  git checkout abdul 
+  221  ls
+  222  ls
+  223  git branch -a
+  224  git remote add origin abdul
+  225  git remote add remote abdul
+  226  git push remote abdul
+  227  git push origin abdul
+  228  git branch -a
+  229  git remote add origin jaya
+  230  git jai add origin jaya
+  231  git  add origin jaya
+  232  git remote add jai jaya
+  233  git push origin jaya
+  234  git checkout jaya
+  235  git branch
+  236  git branch jai
+  237  git checkout jai
+  238  git branch
+  239  git remote add rmt jai
+  240  git push origin jai
+  241  ls
+  242  touch 1
+  243  git add
+  244  git add .
+  245  git commit -m "jai"
+  246  git push origin jai
+  247  git clone https://github.com/abdulrajik99/selenium.git
+  248  ls
+  249  ls
+  250  git pull origin jai
+  251  ls
+  252  cat 2
+  253  git checkout master ter
+  254  git checkout master
+  255  ls
+  256  git merge jai
+  257  ls
+  258  git status
+  259  git push origin master
+  260  git status
+  261  git branch
+  262  ls
+  263  history
+  264  history >> abdul.txt

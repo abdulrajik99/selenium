@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.Freecrm.qa.TestCasees.CalenderPageTest">
+        <methods>
+          <include name="VerifycalendatesTest"/>
+          <include name="VerifyCalenderMonthTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.CalenderPageTest -->
+      <class name="com.Freecrm.qa.TestCasees.HomepageTest">
+        <methods>
+          <include name="VerifyHomepagetitleTest"/>
+          <include name="setup"/>
+          <include name="closedown"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.HomepageTest -->
+      <class name="com.Freecrm.qa.TestCasees.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="closedown"/>
+          <include name="VerifyloginPageTitleTest"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.LoginPageTest -->
+      <class name="com.Freecrm.qa.TestCasees.ContactspageTest">
+        <methods>
+          <include name="VerifyAddcontactlinkTest"/>
+          <include name="shutdo"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.ContactspageTest -->
+      <class name="com.Freecrm.qa.TestCasees.AddNewContactpageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="VerifyStatusTest"/>
+          <include name="ValidateAddnewcontactTest"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.AddNewContactpageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

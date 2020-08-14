@@ -1,0 +1,8 @@
+package Com.FreeCrm.qa.pages;
+
+import Com.FreeCrm.qa.baseclass.TestBase;
+
+public class TasklinksPage extends TestBase
+{
+
+}

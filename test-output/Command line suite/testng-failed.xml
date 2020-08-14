@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test thread-count="5" name="Command line test(failed)">
+    <classes>
+      <class name="com.Freecrm.qa.TestCasees.LoginPageTest">
+        <methods>
+          <include name="UserloginTest"/>
+          <include name="setup"/>
+          <include name="closedown"/>
+          <include name="VerifyloginPageTitleTest"/>
+        </methods>
+      </class> <!-- com.Freecrm.qa.TestCasees.LoginPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
